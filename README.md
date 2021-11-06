@@ -1,4 +1,4 @@
-# port
+# bluum
 instant messaging and VoIP application inspired by discord
 # feature checklist
 Here's a list of features we want in this application
