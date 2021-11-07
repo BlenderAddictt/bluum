@@ -2,14 +2,14 @@
 instant messaging and VoIP application inspired by discord
 # feature checklist
 Here's a list of features we want in this application
-  messaging - 0% working
+  messaging - 100% working
   voice over IP - 0% working
     screen sharing - 0% working
       advanced options for screen sharing like:
       choosing any ammount of frames per second (user input)
       bitrate calibration
     virtual whiteboard for drawing
-  CLI client - 0% working
+  CLI client - 90% working
   GUI client - 0% working
   in-app interface for running code in many programming languages - 0% working
     code autocompletion, checking if code is safe and not running dangerous code
